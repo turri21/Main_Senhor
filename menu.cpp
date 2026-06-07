@@ -7651,7 +7651,7 @@ void HandleUI(void)
 			}
 			else
 			{
-				sprintf(str, " MiSTer      ");
+				sprintf(str, " Senhor      ");
 
 				time_t t = time(NULL);
 				struct tm tm = *localtime(&t);
